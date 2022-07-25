@@ -1,0 +1,11 @@
+# JetBrains
+.idea
+
+# VSCode
+.vscode
+
+# Python virtual environment
+.venv
+
+# __pycache__ bytecode 
+__pycache__
